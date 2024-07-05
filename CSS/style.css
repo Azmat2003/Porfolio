@@ -341,7 +341,7 @@ header {
 
 /* Projects */
 .projects {
-    margin: 6.5rem 0;
+    margin: 5rem 0;
     margin-bottom: 5rem;
     display: flex;
     flex-direction: column;
@@ -358,8 +358,8 @@ header {
 .projectCardProperties {
     display: flex;
     flex-direction: column;
-    width: 25%;
-    height: 40rem;
+    width: 28%;
+    height: 35rem;
     border: solid 5px ;
     border-radius: 10px;
     margin: 3rem 0;
