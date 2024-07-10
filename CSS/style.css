@@ -367,7 +367,7 @@ header {
 }
 
 .projectCardProperties:hover {
-    transform: scale(1.2);
+    transform: scale(1.15);
     transition: transform 0.2s ease-in-out;
 }
 
@@ -427,3 +427,9 @@ header {
 }
 
 
+.project-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
